@@ -1,0 +1,6 @@
+baseURL = ''
+relativeURLs = "true"
+languageCode = 'ar'
+title = 'مدونتي'
+paginate = 9
+
